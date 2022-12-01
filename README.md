@@ -28,3 +28,6 @@ iCJLU_Login.py-->iCJLU_Login.pyw；
   ‘操作’---‘新建’---‘浏览’找到iCJLU_Login.pyw---‘确定’；
   
   创建完成；
+  
+# iCJLU_Login.zip
+  解压后，修改config.ini，创建计划任务
