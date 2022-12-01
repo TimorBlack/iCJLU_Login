@@ -1,0 +1,5 @@
+<QueryList>
+  <Query Id="0" Path="Microsoft-Windows-WLAN-AutoConfig/Operational">
+    <Select Path="Microsoft-Windows-WLAN-AutoConfig/Operational">*[System[Provider[@Name='Microsoft-Windows-WLAN-AutoConfig'] and (EventID=8001)]][EventData[Data[@Name='SSID']='iCJLU'] or EventData[Data[@Name='SSID']='iCJLU2']]</Select>
+  </Query>
+</QueryList>
