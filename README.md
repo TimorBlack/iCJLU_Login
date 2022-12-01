@@ -30,4 +30,4 @@ iCJLU_Login.py-->iCJLU_Login.pyw；
   创建完成；
   
 # iCJLU_Login.zip
-  解压后，修改config.ini，创建计划任务
+  解压后，修改config.ini，创建计划任务时用iCJLU_Login.exe即可
