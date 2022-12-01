@@ -7,7 +7,7 @@ iCJLU_Login.py-->iCJLU_Login.pyw；
   pip install win10toast；
 
 使用前先修改config.ini；
-  原本写了保存，后来觉得麻烦就删了，直接修改就行；
+  原本写了保存，后来觉得麻烦就删了，直接修改就行；\n
   
 连接iCJLU自动执行；
   搜索并打开 ‘任务计划程序’---‘创建任务’；
